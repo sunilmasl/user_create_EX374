@@ -1,6 +1,6 @@
-[web]
-192.168.0.1
+[prod]
+servera.lab.example.com
 
 
-[dev]
-192.168.0.2
+[test]
+serverb.lab.example.com
